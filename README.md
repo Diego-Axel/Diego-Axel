@@ -6,7 +6,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199036132691/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/axxell_)
 
-![Diego-Axel GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-Axel&show_icons=true&theme=synthwave)
+![Diego-Axel GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-Axel&show_icons=true&theme=tokyonight)
 
 ## ⛩️------------------ USANDO --------------------⛩️
 
@@ -16,5 +16,7 @@
 
 </div>
 
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="Visual Studio Code" width="30px" height="30px"></a>&nbsp;
+<a href="https://www.python.org/" title="Python"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="30px" height="30px"></a>&nbsp;
 
 
