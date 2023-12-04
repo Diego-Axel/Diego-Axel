@@ -8,9 +8,6 @@
 
 ![Diego-Axel GitHub stats](https://github-readme-stats.vercel.app/api?username=Diego-Axel&show_icons=true&theme=synthwave)
 
-
-
-
 ## ⛩️------------------ USANDO --------------------⛩️
 
 <div style="display: inline_block"><br/>
