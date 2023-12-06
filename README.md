@@ -24,9 +24,13 @@ A little about me:<br>LOADING...
 </div><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Diego-Axel&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Diego-Axel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Axel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">  
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Diego-Axel&show_icons=true&count_private=true&hide_border=false&title_color=3d85c6&icon_color=3d85c6&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Axel&layout=compact&hide_border=false&title_color=3d85c6&text_color=c9d1d9&bg_color=0d1117" />
+
+
+
 
 #
 
