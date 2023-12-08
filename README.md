@@ -30,7 +30,7 @@ A little about me:<br>LOADING...
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Axel&layout=compact&hide_border=false&title_color=3d85c6&text_color=c9d1d9&bg_color=0d1117" />
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1179995665099669615/1182521224799199362/950effbd-75ef-4ac0-902f-1fcfd80e441f2.jpg?ex=6584ffb6&is=65728ab6&hm=13b201eff10a19a84f922de8a1b4ee8bcdacf626d00c2bd129afba1b231fe714&" width="500">
+<img src="https://cdn.discordapp.com/attachments/1179995665099669615/1182521224799199362/950effbd-75ef-4ac0-902f-1fcfd80e441f2.jpg?ex=6584ffb6&is=65728ab6&hm=13b201eff10a19a84f922de8a1b4ee8bcdacf626d00c2bd129afba1b231fe714&" width="430">
     
 #
 
