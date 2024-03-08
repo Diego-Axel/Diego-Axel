@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="Make by: https://cdn.discordapp." src="https://cdn.discordapp.com/attachments/1179995665099669615/1182521224799199362/950effbd-75ef-4ac0-902f-1fcfd80e441f2.jpg?ex=6584ffb6&is=65728ab6&hm=13b201eff10a19a84f922de8a1b4ee8bcdacf626d00c2bd129afba1b231fe714&" width="375" height="340"/>
+<img align="right" alt="Make by: https://cdn.discordapp." src="https://i.pinimg.com/564x/57/9d/da/579ddaacfeb1223c770f001f4e7ece86.jpg" width="375" height="340"/>
 
 ### A little about me:✨
 My name is Diêgo Axel, I am an undergraduate student in Information Systems at the Federal University of Rio Grande do Norte (UFRN). I'm passionate about technology and I'm always looking to improve myself in the programming area🖥️📊  
