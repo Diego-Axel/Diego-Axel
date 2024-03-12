@@ -15,7 +15,7 @@ My name is Diêgo Axel, I am an undergraduate student in Information Systems at 
 ___
 
 <div align="center">  
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Diego-Axel&show_icons=true&count_private=true&hide_border=false&title_color=3d85c6&icon_color=3d85c6&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Diego-Axel&show_icons=true&count_private=true&hide_border=false&title_color=3d85c6&icon_color=3d85c6&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Diêgo Axel github stats" /> 
   <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Axel&layout=compact&hide_border=false&title_color=3d85c6&text_color=c9d1d9&bg_color=0d1117" />
 
 
