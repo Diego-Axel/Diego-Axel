@@ -11,6 +11,7 @@ My name is Diêgo Axel, I am an undergraduate student in Information Systems at 
 **Presently**
 
 - Undergratuated in Information Systems 🎓
+- Trainee at Viggo Sistemas 👾
 
 ___
 
