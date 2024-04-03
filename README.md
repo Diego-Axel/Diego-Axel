@@ -10,7 +10,7 @@ My name is Diêgo Axel, I am an undergraduate student in Information Systems at 
 
 **Presently**
 
-- Undergratuated in Information Systems 🎓
+- Undergratuated in Information Systems (UFRN) 🎓
 - Trainee at Viggo Sistemas 👾
 
 ___
