@@ -36,7 +36,6 @@ ___
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diegoaxelbsr)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/di%C3%AAgo-axel-1684452b5/)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="70">
 
 <!--
 This repository was inspired by the repository of: https://github.com/ViniciusMaiaM  :)
