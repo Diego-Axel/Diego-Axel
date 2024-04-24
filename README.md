@@ -11,7 +11,7 @@ My name is Diêgo Axel, I am an undergraduate student in Information Systems at 
 **Presently**
 
 - Undergratuated in Information Systems (UFRN) 🎓
-- Trainee at Viggo Sistemas - Business Intelligence (BI) 👾
+- Trainee at Viggo Sistemas - Business Intelligence (B.I.) 👾
 ___
 
 <div align="center"> 
