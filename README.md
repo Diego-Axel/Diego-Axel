@@ -42,10 +42,3 @@ ___
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Diego-Axel/Diego-Axel/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
-
-<!--
-This repository was inspired by the repository of: https://github.com/ViniciusMaiaM  :)
----> 
-
-
-
