@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="Make by: Mario/GitHub." src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="375"  height="340"/>
+<img align="right" alt="Make by: Mario/GitHub." src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"  height="auto"/>
 
 ### A little about me:✨
 My name is Diêgo Axel, I am an undergraduate student in Information Systems at the Federal University of Rio Grande do Norte (UFRN). I'm passionate about technology and I'm always looking to improve myself in the programming area🖥️📊  
@@ -16,8 +16,8 @@ ___
 
 <div align="center"> 
 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Diego-Axel&show_icons=true&theme=synthwave" alt="Diêgo Axel github stats" /> 
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Axel&layout=compact&theme=synthwave" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Diego-Axel&show_icons=true&theme=synthwave" alt="Diêgo Axel github stats" /> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Axel&layout=compact&theme=synthwave" />
 
 
 
