@@ -16,8 +16,8 @@ ___
 
 <div align="center"> 
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Diego-Axel&show_icons=true&theme=synthwave" alt="Diêgo Axel github stats" /> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Axel&layout=compact&theme=synthwave" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Diego-Axel&show_icons=true&theme=synthwave" alt="Diêgo Axel github stats" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Axel&layout=compact&langs_count=16&theme=synthwave"/>
 
 
 
