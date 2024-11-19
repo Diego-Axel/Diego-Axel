@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="Make by: Mario/GitHub." src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400"  height="auto"/>
+<img align="right" alt="Make by: Mario/GitHub." src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"  height="auto"/>
 
 ### A little about me:
 My name is Diêgo Axel, I am an undergraduate student in Information Systems at the Federal University of Rio Grande do Norte (UFRN). I'm passionate about technology and I'm always looking to improve myself in the programming area 🖥️  
