@@ -12,7 +12,7 @@ My name is Diêgo Axel, I am an undergraduate student in Information Systems at 
 
 - Undergratuated in Information Systems (UFRN) 🎓
 - Trainee at Viggo Sistemas 👾
-- Learning C 📚
+- Learning Node and Typescript 📚
 ___
 
 <div align="center"> 
