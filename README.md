@@ -1,4 +1,4 @@
-# Hi, i'm Diêgo Axel, welcome to my profile📌
+# Hi, I'm Diêgo Axel, welcome to my profile📌
 
 
 
