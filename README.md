@@ -25,6 +25,7 @@ const programador = {
 ```
 <div align="center"> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Diego-Axel&show_icons=true&theme=tokyonight" alt="Diêgo Axel github stats" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Axel&layout=compact&langs_count=16&theme=tokyonight"/>
 
 ___
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoaxelbsr@gmail.com?!&&p=4740667362060c04JmltdHM9MTcwMTY0ODAwMCZpZ3VpZD0zM2Y4NTM4Ni0yMDEwLTZhOTEtMzQ3Yi00MDU0MjFjNjZiZTcmaW5zaWQ9NTE5Ng&ptn=3&ver=2&hsh=3&fclid=33f85386-2010-6a91-347b-405421c66be7&psq=gmail&u=a1aHR0cDovL21haWwuZ29vZ2xlLmNvbS9tYWlsP2hsPXB0LUJS&ntb=1)
