@@ -1,4 +1,10 @@
-# Olá, seja bem vindo(a)! 👋
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&color=A599E9&center=true&vCenter=true&width=700&height=60&lines=Seja%20bem-vindo!%20Sou%20Arthur%20%F0%9F%91%8B"
+    alt="Typing intro"
+  />
+</p>
+
 
 ```javascript
 const programador = {
@@ -27,3 +33,5 @@ ___
 <a href= "https://profile.codersrank.io/user/diego-axel" target="_blank">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=67A4AC&logo=CodersRank&logoColor=FFFFFF&label=">
 </a>
+
+![Visitas no perfil](https://komarev.com/ghpvc/?username=Diego-Axel&color=red&style=for-the-badge&label=visitas+do+perfil)
