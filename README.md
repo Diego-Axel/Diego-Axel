@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&color=A599E9&center=true&vCenter=true&width=700&height=60&lines=Seja%20bem-vindo!%20Sou%20Arthur%20%F0%9F%91%8B"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&color=A599E9&center=true&vCenter=true&width=700&height=60&lines=Seja%20bem-vindo!%20Sou%20Diego%20%F0%9F%91%8B"
     alt="Typing intro"
   />
 </p>
