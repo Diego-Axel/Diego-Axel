@@ -11,7 +11,6 @@ const programador = {
     nome: "Diêgo Axel",
     sobre: [
         "Estudante de graduação em Sistemas de Informação na UFRN 🎓",
-        "Estagiário na Viggo Sistemas 👾",
         "Apaixonado por tecnologia e programação 🖥️"
     ],
     aprendendo: ["Node", "Typescript"],
