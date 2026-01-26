@@ -15,7 +15,7 @@ const programador = {
     ],
     aprendendo: ["Angular"],
     skills: ["PostgreSQL", "HTML5", "CSS3", "JavaScript", "React", "TypeScript"],
-    contato: {f
+    contato: {
         email: "diegoaxelbsr@gmail.com",
         linkedin: "[https://www.linkedin.com/in/diêgo-axel-1684452b5/](https://www.linkedin.com/in/diêgo-axel-1684452b5/)",
         instagram: "[https://instagram.com/diegoaxelbsr](https://instagram.com/diegoaxelbsr)"
