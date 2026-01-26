@@ -13,9 +13,9 @@ const programador = {
         "Estudante de graduação em Sistemas de Informação na UFRN 🎓",
         "Apaixonado por tecnologia e programação 🖥️"
     ],
-    aprendendo: ["Node", "Typescript"],
-    skills: ["PostgreSQL", "Python", "C", "HTML5", "CSS3", "JavaScript"],
-    contato: {
+    aprendendo: ["Angular"],
+    skills: ["PostgreSQL", "HTML5", "CSS3", "JavaScript", "React", "TypeScript"],
+    contato: {f
         email: "diegoaxelbsr@gmail.com",
         linkedin: "[https://www.linkedin.com/in/diêgo-axel-1684452b5/](https://www.linkedin.com/in/diêgo-axel-1684452b5/)",
         instagram: "[https://instagram.com/diegoaxelbsr](https://instagram.com/diegoaxelbsr)"
