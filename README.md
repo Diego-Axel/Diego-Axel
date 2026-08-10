@@ -12,7 +12,8 @@ const programador = {
     sobre: [
         "Estudante de graduação em Sistemas de Informação na UFRN 🎓",
         "Apaixonado por tecnologia e programação 🖥️",
-        "Desenvolvedor FullStack"
+        "Desenvolvedor FullStack",
+        "Resolvedor de Problemas"
     ],
     aprendendo: ["Loading..."],
     skills: ["Docker", "PostgreSQL", "MySQL", "MongoDB", "HTML5", "CSS3", "Python", "Django",
