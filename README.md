@@ -13,7 +13,7 @@ const programador = {
         "Estudante de graduação em Sistemas de Informação na UFRN 🎓",
         "Apaixonado por tecnologia e programação 🖥️",
         "Desenvolvedor FullStack",
-        "Resolvedor de Problemas"
+        "Solução para os seus Problemas"
     ],
     aprendendo: ["Loading..."],
     skills: ["Docker", "PostgreSQL", "MySQL", "MongoDB", "HTML5", "CSS3", "Python", "Django",
