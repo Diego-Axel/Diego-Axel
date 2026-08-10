@@ -11,10 +11,12 @@ const programador = {
     nome: "Diêgo Axel",
     sobre: [
         "Estudante de graduação em Sistemas de Informação na UFRN 🎓",
-        "Apaixonado por tecnologia e programação 🖥️"
+        "Apaixonado por tecnologia e programação 🖥️",
+        "Desenvolvedor FullStack"
     ],
-    aprendendo: ["Angular"],
-    skills: ["PostgreSQL", "HTML5", "CSS3", "JavaScript", "React", "TypeScript"],
+    aprendendo: ["Loading..."],
+    skills: ["Docker", "PostgreSQL", "MySQL", "MongoDB", "HTML5", "CSS3", "Python", "Django",
+    "C", "JavaScript", "React", "TypeScript", "Angular", "Node", "Vite"],
     contato: {
         email: "diegoaxelbsr@gmail.com",
         linkedin: "[https://www.linkedin.com/in/diêgo-axel-1684452b5/](https://www.linkedin.com/in/diêgo-axel-1684452b5/)",
