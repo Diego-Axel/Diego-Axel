@@ -1,40 +1,71 @@
+<h1 align="center">Diêgo Axel</h1>
+
+<p align="center">
+  <b>Desenvolvedor FullStack</b> · Estudante de Sistemas de Informação na UFRN
+</p>
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&color=A599E9&center=true&vCenter=true&width=700&height=60&lines=Seja%20bem-vindo!%20Sou%20Diego%20%F0%9F%91%8B"
-    alt="Typing intro"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A599E9&center=true&vCenter=true&width=600&height=40&lines=Construindo+aplica%C3%A7%C3%B5es+web+de+ponta+a+ponta;Front-end%2C+back-end+e+banco+de+dados;Sempre+aprendendo+algo+novo"
+    alt="Apresentação"
   />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/di%C3%AAgo-axel-1684452b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:diegoaxelbsr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-```javascript
-const programador = {
-    nome: "Diêgo Axel",
-    sobre: [
-        "Estudante de graduação em Sistemas de Informação na UFRN 🎓",
-        "Apaixonado por tecnologia e programação 🖥️",
-        "Desenvolvedor FullStack",
-        "Solução para os seus Problemas"
-    ],
-    aprendendo: ["Loading..."],
-    skills: ["Docker", "PostgreSQL", "MySQL", "MongoDB", "HTML5", "CSS3", "Python", "Django",
-    "C", "JavaScript", "React", "TypeScript", "Angular", "Node", "Vite"],
-    contato: {
-        email: "diegoaxelbsr@gmail.com",
-        linkedin: "[https://www.linkedin.com/in/diêgo-axel-1684452b5/](https://www.linkedin.com/in/diêgo-axel-1684452b5/)",
-        instagram: "[https://instagram.com/diegoaxelbsr](https://instagram.com/diegoaxelbsr)"
-    }
-}
-```
-<div align="center"> 
-  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Diego-Axel&show_icons=true&theme=tokyonight" alt="Diêgo Axel github stats" /> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Axel&layout=compact&langs_count=16&theme=tokyonight"/> -->
+---
 
-___
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoaxelbsr@gmail.com?!&&p=4740667362060c04JmltdHM9MTcwMTY0ODAwMCZpZ3VpZD0zM2Y4NTM4Ni0yMDEwLTZhOTEtMzQ3Yi00MDU0MjFjNjZiZTcmaW5zaWQ9NTE5Ng&ptn=3&ver=2&hsh=3&fclid=33f85386-2010-6a91-347b-405421c66be7&psq=gmail&u=a1aHR0cDovL21haWwuZ29vZ2xlLmNvbS9tYWlsP2hsPXB0LUJS&ntb=1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diegoaxelbsr)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/di%C3%AAgo-axel-1684452b5/)
-<a href= "https://profile.codersrank.io/user/diego-axel" target="_blank">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=CodersRank&color=67A4AC&logo=CodersRank&logoColor=FFFFFF&label=">
-</a>
+## Sobre mim
 
-![Visitas no perfil](https://komarev.com/ghpvc/?username=Diego-Axel&color=red&style=for-the-badge&label=visitas+do+perfil)
+Sou desenvolvedor FullStack e estudante de graduação em Sistemas de Informação na Universidade Federal do Rio Grande do Norte (UFRN). Trabalho com o desenvolvimento de aplicações web completas, da interface ao banco de dados, com foco em criar soluções práticas para problemas reais.
+
+- 🎓 Graduando em Sistemas de Informação — UFRN
+- 💻 Desenvolvimento web FullStack com JavaScript/TypeScript e Python
+- 🌱 Atualmente me aprofundando em **Go**
+- 📫 Contato: **diegoaxelbsr@gmail.com**
+
+---
+
+## Stack
+
+**Linguagens**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,py,js,ts,html,css" alt="Linguagens"/>
+</p>
+
+**Front-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,vite" alt="Front-end"/>
+</p>
+
+**Back-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,django" alt="Back-end"/>
+</p>
+
+**Bancos de dados**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Bancos de dados"/>
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="Ferramentas"/>
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diego-Axel&color=A599E9&style=flat-square&label=Visitas" alt="Visitas no perfil"/>
+</p>
