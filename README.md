@@ -27,7 +27,7 @@
 Sou desenvolvedor FullStack e estudante de graduação em Sistemas de Informação na Universidade Federal do Rio Grande do Norte (UFRN). Trabalho com o desenvolvimento de aplicações web completas, da interface ao banco de dados, com foco em criar soluções práticas para problemas reais.
 
 - 🎓 Graduando em Sistemas de Informação — UFRN
-- 💻 Desenvolvimento web FullStack com JavaScript/TypeScript e Python
+- 💻 Desenvolvimento FullStack - Site, Mobile, Sistemas Personalizados...
 - 🌱 Atualmente me aprofundando em **Go**
 - 📫 Contato: **diegoaxelbsr@gmail.com**
 
